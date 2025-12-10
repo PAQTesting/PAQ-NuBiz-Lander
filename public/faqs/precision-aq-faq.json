@@ -1,0 +1,48 @@
+{
+  "faqVersion": {
+    "id": "general",
+    "name": "General FAQ",
+    "questions": [
+      {
+        "question": "What does Precision AQ do?",
+        "answer": "Precision AQ helps life sciences companies navigate the complexities of commercialization across a product's lifecycle. We ensure patients have access to life-changing medicines by providing services in market access, HEOR, medical communications, payer strategy, advertising, investor relations, and data analytics."
+      },
+      {
+        "question": "What does 'AQ' stand for?",
+        "answer": "AQ stands for Access Quotient. Our name reflects our approach to removing barriers by fusing together science (IQ, or Intelligence Quotient) and empathy (EQ, or Emotional Quotient). The result is a critical ingredient in navigating the therapy-to-patient journey."
+      },
+      {
+        "question": "What services does Precision AQ offer?",
+        "answer": "Our comprehensive services include commercialization research and strategy, health economics and outcomes research (HEOR), market access and payer strategy, advertising and branding, medical communications, investor relations, learning and development, and data-driven analytics and insights."
+      },
+      {
+        "question": "How many people work at Precision AQ?",
+        "answer": "Precision AQ has a team of over 1,200 experts, advisors, and creators dedicated to ensuring patients have access to the therapies they need. Our global team brings diverse expertise across the healthcare commercialization spectrum."
+      },
+      {
+        "question": "Is Precision AQ part of a larger organization?",
+        "answer": "Yes, Precision AQ is part of Precision Medicine Group, which operates through two divisions: Precision for Medicine (focused on biomarker-driven research and development) and Precision AQ (focused on commercialization and market access)."
+      },
+      {
+        "question": "What was Precision AQ previously called?",
+        "answer": "Precision AQ was formerly known as Precision Value & Health. The rebrand in 2024 reflected our strategic decision to fully integrate our capabilities and deliver a more unified offering to clients across the commercialization journey."
+      },
+      {
+        "question": "What types of companies does Precision AQ work with?",
+        "answer": "We work with life sciences companies including pharmaceutical manufacturers, biotechnology firms, and medical device companies. We support them throughout their product lifecycle, from launch through maturity, helping navigate payer complexities and market access challenges."
+      },
+      {
+        "question": "How does Precision AQ approach healthcare commercialization?",
+        "answer": "We use data-driven analytics and insights to tailor communications to payers, health systems, healthcare providers, and patients. Our approach combines scientific expertise with empathy to effectively communicate the value of innovations and remove systemic barriers to therapy access."
+      },
+      {
+        "question": "Does Precision AQ offer career opportunities?",
+        "answer": "Yes, we regularly hire experts across various disciplines including market access strategists, medical writers, HEOR specialists, creative professionals, data analysts, and account managers. Visit our careers page to explore current opportunities where you can make a meaningful impact on healthcare."
+      },
+      {
+        "question": "Where is Precision AQ located?",
+        "answer": "Precision AQ operates globally with offices in multiple locations including the United States (Boston, Chicago, New York, Indianapolis, Gladstone) and international locations. Our distributed team allows us to serve life sciences clients around the world."
+      }
+    ]
+  }
+}

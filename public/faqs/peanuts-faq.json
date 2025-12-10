@@ -1,0 +1,48 @@
+{
+  "faqVersion": {
+    "id": "peanuts",
+    "name": "Peanuts FAQ",
+    "questions": [
+      {
+        "question": "Who created Peanuts?",
+        "answer": "Peanuts was created by Charles M. Schulz, who wrote and illustrated the comic strip from its debut on October 2, 1950, until his retirement in 2000."
+      },
+      {
+        "question": "Why is Charlie Brown's head round?",
+        "answer": "Charles Schulz designed Charlie Brown with a perfectly round head as a distinctive visual element that made him instantly recognizable and symbolized his everyman, ordinary kid character."
+      },
+      {
+        "question": "What kind of dog is Snoopy?",
+        "answer": "Snoopy is a beagle. While he doesn't look much like a realistic beagle, Schulz confirmed this was his breed throughout the series."
+      },
+      {
+        "question": "Why does Linus carry a security blanket?",
+        "answer": "Linus's security blanket represents childhood comfort and attachment. The term 'security blanket' actually became popularized in mainstream culture largely due to Linus's character in Peanuts."
+      },
+      {
+        "question": "Does Charlie Brown ever kick the football?",
+        "answer": "In the vast majority of strips, Lucy pulls the football away at the last second. However, there were a few rare occasions where Charlie Brown successfully kicked it, usually due to unusual circumstances."
+      },
+      {
+        "question": "What is the Great Pumpkin?",
+        "answer": "The Great Pumpkin is a figure that Linus believes in, similar to Santa Claus. He waits in the pumpkin patch every Halloween for the Great Pumpkin to rise and bring toys to children, though it never appears."
+      },
+      {
+        "question": "Who is the Little Red-Haired Girl?",
+        "answer": "The Little Red-Haired Girl is Charlie Brown's unrequited crush who rarely appears in the strip but is frequently mentioned. She represents Charlie Brown's unattainable ideal and his feelings of inadequacy."
+      },
+      {
+        "question": "Why does Peppermint Patty call Charlie Brown 'Chuck'?",
+        "answer": "Peppermint Patty's use of the nickname 'Chuck' reflects her casual, tomboyish personality and represents her unique, informal relationship with Charlie Brown."
+      },
+      {
+        "question": "What does Snoopy's doghouse look like inside?",
+        "answer": "While the doghouse appears small from the outside, Snoopy's interior is impossibly spacious and has been shown to contain multiple rooms, a pool table, paintings, and even a guest room for Woodstock."
+      },
+      {
+        "question": "When did Peanuts end?",
+        "answer": "The final original Peanuts comic strip was published on February 13, 2000, one day after Charles Schulz passed away. Schulz had announced his retirement due to health issues in December 1999."
+      }
+    ]
+  }
+}

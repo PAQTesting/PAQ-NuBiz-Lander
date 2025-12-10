@@ -1,0 +1,72 @@
+[
+ {
+   "Name": "Charlie Brown",
+   "Title": "Protagonist",
+   "Bio": "The lovable loser and main character of Peanuts. Known for his round head, zigzag-patterned shirt, and perpetual optimism despite constant failure. Manages a terrible baseball team and is hopelessly in love with the Little Red-Haired Girl.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "charlie-brown.jpg"
+ },
+ {
+   "Name": "Snoopy",
+   "Title": "Charlie Brown's pet beagle",
+   "Bio": "The imaginative and independent beagle who lives in a doghouse and often pretends to be a World War I Flying Ace, Joe Cool, or a famous author. Best friends with Woodstock and has a rich fantasy life.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "snoopy.jpg"
+ },
+ {
+   "Name": "Lucy van Pelt",
+   "Title": "Antagonist/Fussbudget",
+   "Bio": "The bossy, crabby, and opinionated girl who runs a psychiatric booth for 5 cents. Known for pulling away the football from Charlie Brown and having an unrequited crush on Schroeder.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "lucy-van-pelt.jpg"
+ },
+ {
+   "Name": "Linus van Pelt",
+   "Title": "Philosopher",
+   "Bio": "Lucy's younger brother and Charlie Brown's best friend. An intellectual and philosophical child who carries his security blanket everywhere and believes in the Great Pumpkin.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "linus-van-pelt.jpg"
+ },
+ {
+   "Name": "Woodstock",
+   "Title": "Snoopy's sidekick",
+   "Bio": "Snoopy's tiny yellow bird companion who communicates in chirps and scratches. Often participates in Snoopy's adventures and fantasies, including serving as his Flying Ace mechanic.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "woodstock.jpg"
+ },
+ {
+   "Name": "Peppermint Patty",
+   "Title": "Tomboy athlete",
+   "Bio": "The athletic, confident tomboy who excels at sports but struggles academically. Calls Charlie Brown \"Chuck\" and often falls asleep in class. Has an unrequited crush on Charlie Brown.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "peppermint-patty.jpg"
+ },
+ {
+   "Name": "Marcie",
+   "Title": "Intelligent sidekick",
+   "Bio": "Peppermint Patty's best friend and intellectual opposite. Extremely polite, studious, and calls Peppermint Patty \"sir.\" Wears glasses and provides a calming contrast to Patty's energetic nature.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "marcie.jpg"
+ },
+ {
+   "Name": "Sally Brown",
+   "Title": "Innocent sibling",
+   "Bio": "Charlie Brown's younger sister who is naive, lazy about homework, and often misunderstands things. Has a crush on Linus whom she calls her \"Sweet Babboo\" and is known for her humorous philosophical musings.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "sally-brown.jpg"
+ },
+ {
+   "Name": "Schroeder",
+   "Title": "Musical prodigy",
+   "Bio": "The piano virtuoso obsessed with Beethoven and classical music. Often annoyed by Lucy's constant attempts to get his attention while he practices on his toy piano.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "schroeder.jpg"
+ },
+ {
+   "Name": "Pig-Pen",
+   "Title": "Dirty kid",
+   "Bio": "The perpetually filthy boy who walks around in a cloud of dust. Despite his appearance, he's proud of his dirtiness and has a philosophical attitude about cleanliness.",
+   "LinkedIn": "https://www.linkedin.com/in/jackdemanche/",
+   "Image": "pig-pen.jpg"
+ }
+]
